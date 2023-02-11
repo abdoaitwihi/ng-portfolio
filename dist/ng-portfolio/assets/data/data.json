@@ -1,14 +1,35 @@
 [
   {
-    "image": "first.png",
+    "image": "pavo.png",
+    "link": "https://themewagon.github.io/pavo/"
+  },
+  {
+    "image": "landwind.png",
+    "link": "https://themewagon.github.io/landwind/"
+  },
+  {
+    "image": "landing.png",
+    "link": "https://www.tailwindtoolbox.com/templates/landing-page-demo.php"
+  },
+  {
+    "image": "tailwindstarterkit.png",
+    "link": "https://www.creative-tim.com/learning-lab/tailwind-starter-kit/presenta"
+  },
+  {
+    "image": "landmark.png",
+    "link": "https://themewagon.github.io/landmark/"
+  },
+
+  {
+    "image": "growmark.png",
     "link": "https://themewagon.github.io/GrowMark/"
   },
   {
-    "image": "second.png",
+    "image": "festava.png",
     "link": "https://themewagon.github.io/FestavaLive/"
   },
   {
-    "image": "first.png",
-    "link": "first.png"
+    "image": "dentalpro.png",
+    "link": "https://tailwindcss-templates.netlify.app/dentalpro/"
   }
 ]
