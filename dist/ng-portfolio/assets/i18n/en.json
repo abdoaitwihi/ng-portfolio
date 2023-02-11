@@ -1,0 +1,42 @@
+{
+  "title": "titl",
+  "paragraph": "paragraph",
+  "get_started": "Get started",
+  "steps": {
+    "title": "dlsjdflks",
+    "paragraph": "paragraph",
+    "step1": {
+      "title": "hhh",
+      "paragraph": "ksjdkfj"
+    },
+    "step2": {
+      "title": "hhhdd",
+      "paragraph": "ksjdkfj"
+    },
+    "step3": {
+      "title": "hhh",
+      "paragraph": "ksjdkfj"
+    },
+    "step4": {
+      "title": "hhh",
+      "paragraph": "ksjdkfj"
+    },
+    "step5": {
+      "title": "hhh",
+      "paragraph": "ksjdk;sflsldjlkfj"
+    },
+    "step6": {
+      "title": "hhh",
+      "paragraph": "ksjdkfj"
+    }
+  },
+  "projects": {
+    "title": "skjflsf",
+    "paragraph": "lsdjfl",
+    "live_preview": "Live preview"
+  },
+  "call_to_action": {
+    "title": "ldsfjlsk",
+    "paragraph": "lskjdflsd"
+  }
+}
