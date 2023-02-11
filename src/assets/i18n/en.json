@@ -1,42 +1,43 @@
 {
-  "title": "titl",
-  "paragraph": "paragraph",
-  "get_started": "Get started",
+  "title1": "Expert Website Development",
+  "title2": "Solutions for Your Business",
+  "paragraph": "Get professional websites, landing pages, and bug fixes from an experienced developer.",
+  "get_started": "Contact me now",
   "steps": {
-    "title": "dlsjdflks",
-    "paragraph": "paragraph",
+    "title": "My Proven Development Process",
+    "paragraph": "Ensure the success and efficiency of your project with these 6 simple and straightforward steps. Our process is designed to ensure maximum efficiency and satisfaction for our clients",
     "step1": {
-      "title": "hhh",
-      "paragraph": "ksjdkfj"
+      "title": "Initial Call",
+      "paragraph": "Start the process with a phone call to discuss your needs, goals, and budget"
     },
     "step2": {
-      "title": "hhhdd",
-      "paragraph": "ksjdkfj"
+      "title": "Needs Discussion",
+      "paragraph": "Get a clear understanding of your requirements and goals through in-depth consultation"
     },
     "step3": {
-      "title": "hhh",
-      "paragraph": "ksjdkfj"
+      "title": "Design",
+      "paragraph": "Create a unique and effective design for your project based on your preferences"
     },
     "step4": {
-      "title": "hhh",
-      "paragraph": "ksjdkfj"
+      "title": "Client Approval",
+      "paragraph": "Get your approval on the design before development begins to avoid any surprises"
     },
     "step5": {
-      "title": "hhh",
-      "paragraph": "ksjdk;sflsldjlkfj"
+      "title": "Development & Testing",
+      "paragraph": "Build and test your website or landing page to ensure it meets your expectations"
     },
     "step6": {
-      "title": "hhh",
-      "paragraph": "ksjdkfj"
+      "title": "Deploy & Support",
+      "paragraph": "Deploy your project and offer ongoing support to ensure it continues to perform at its best"
     }
   },
   "projects": {
-    "title": "skjflsf",
-    "paragraph": "lsdjfl",
+    "title": "See What I Can Do",
+    "paragraph": "Customizable and editable examples of my web development work. Prices starting at $160",
     "live_preview": "Live preview"
   },
   "call_to_action": {
-    "title": "ldsfjlsk",
-    "paragraph": "lskjdflsd"
+    "title": "Ready to Get Started?",
+    "paragraph": "Get your website or landing page developed by a professional with prices starting at $160"
   }
 }

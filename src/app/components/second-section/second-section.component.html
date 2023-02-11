@@ -1,12 +1,12 @@
 <section class="bg-gray-900 text-white">
   <div class="mx-auto max-w-screen-xl px-4 py-16 sm:px-6 lg:px-8">
     <div class="mx-auto max-w-lg text-center">
-      <h2 class="text-3xl font-bold sm:text-4xl">Kickstart your marketing</h2>
+      <h2 class="text-3xl font-bold sm:text-4xl">
+        {{ "projects.title" | translate }}
+      </h2>
 
       <p class="mt-4 text-gray-300">
-        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequuntur
-        aliquam doloribus nesciunt eos fugiat. Vitae aperiam fugit consequuntur
-        saepe laborum.
+        {{ "projects.paragraph" | translate }}
       </p>
     </div>
 
@@ -22,7 +22,7 @@
           [routerLink]="['live-preview']"
           [queryParams]="{ link: item.link }"
         >
-          Live preview
+          {{ "projects.live_preview" | translate }}
         </a>
 
         <img

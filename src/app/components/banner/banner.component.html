@@ -6,22 +6,24 @@
       <h1
         class="bg-gradient-to-r from-green-300 via-blue-500 to-purple-600 bg-clip-text text-3xl font-extrabold text-transparent sm:text-5xl"
       >
-        Understand User Flow.
+        {{ "title1" | translate }}
 
-        <span class="sm:block"> Increase Conversion. </span>
+        <span class="sm:block">
+          {{ "title2" | translate }}
+        </span>
       </h1>
 
       <p class="mx-auto mt-4 max-w-xl sm:text-xl sm:leading-relaxed">
-        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nesciunt illo
-        tenetur fuga ducimus numquam ea!
+        {{ "paragraph" | translate }}
       </p>
 
       <div class="mt-8 flex flex-wrap justify-center gap-4">
         <a
           class="block w-full rounded border border-blue-600 bg-blue-600 px-12 py-3 text-sm font-medium text-white hover:bg-transparent hover:text-white focus:outline-none focus:ring active:text-opacity-75 sm:w-auto"
-          href="/get-started"
+          href="https://api.whatsapp.com/send?phone=212708329625"
+          target="_blank"
         >
-          Get Started
+          {{ "get_started" | translate }}
         </a>
       </div>
     </div>

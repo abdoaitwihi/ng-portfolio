@@ -7,5 +7,19 @@ import { TranslationService } from 'src/app/services/translation.service';
   styleUrls: ['./main.component.scss'],
 })
 export class MainComponent {
+  langs = [
+    {
+      label: 'Arabic',
+      value: 'ar',
+    },
+    {
+      label: 'French',
+      value: 'fr',
+    },
+    {
+      label: 'English',
+      value: 'en',
+    },
+  ];
   constructor(public translationService: TranslationService) {}
 }

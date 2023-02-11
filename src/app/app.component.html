@@ -1,1 +1,6 @@
-<router-outlet></router-outlet>
+<div
+  [dir]="translationService.currentLang() == 'ar' ? 'rtl' : 'ltr'"
+  class="tracking-wide"
+>
+  <router-outlet></router-outlet>
+</div>
