@@ -1,3 +1,35 @@
 {
-  "login": "logfr"
+  "title1": "Expertise en développement de site web,",
+  "title2": "Solutions pour votre entreprise",
+  "paragraph": "Obtenez des sites web professionnels, des landingpages et des corrections de bogues d'un développeur expérimenté.",
+  "get_started": "Messagez-moi maintenant",
+  "steps": {
+    "title": "Mon processus de développement éprouvé",
+    "paragraph": "Assurez-vous du succès et de l'efficacité de votre projet avec ces 6 étapes simples et claires. Notre processus est conçu pour garantir une efficacité maximale et une satisfaction pour nos clients",
+    "step1": {
+      "title": "Appel initial",
+      "paragraph": "Commencez le processus avec un appel téléphonique pour discuter de vos besoins, objectifs et budget"
+    },
+    "step2": {
+      "title": "Discussion des besoins",
+      "paragraph": "Obtenez une compréhension claire de vos exigences et objectifs grâce à une consultation approfondie"
+    },
+    "step3": {
+      "title": "Conception",
+      "paragraph": "Créez une conception unique et efficace pour votre projet en fonction de vos préférences"
+    },
+    "step4": {
+      "title": "Approbation du client",
+      "paragraph": "Obtenez votre approbation sur la conception avant le début du développement pour éviter toutes les surprises"
+    }
+  },
+  "projects": {
+    "title": "Voir ce que je peux faire",
+    "paragraph": "Exemples personnalisables et modifiables de mon travail de développement web. Les prix débutent à 160 $",
+    "live_preview": "Aperçu en direct"
+  },
+  "call_to_action": {
+    "title": "Prêt à commencer?",
+    "paragraph": "Obtenez le développement de votre site web ou de votre page d'atterrissage par un professionnel avec des prix démarrant à 160 $"
+  }
 }
