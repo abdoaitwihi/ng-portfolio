@@ -1,20 +1,18 @@
 <app-banner></app-banner>
-<app-first-section></app-first-section>
 <app-second-section></app-second-section>
+<app-first-section></app-first-section>
 <app-footer></app-footer>
 <div class="fixed top-3 left-1/2 -translate-x-1/2">
   <div
-    class="inline-flex rounded-lg border p-1 shadow border-gray-800 bg-blue-500"
+    class="inline-flex rounded-lg border p-1 shadow border-white bg-gray-900"
   >
     <button
       *ngFor="let item of langs"
       [class]="{
-        '!bg-gray-800': translationService.currentLang() == item.value,
-        '!text-blue-500': translationService.currentLang() == item.value,
-        'text-black': translationService.currentLang() != item.value
+        '!bg-gray-800': translationService.currentLang() == item.value
       }"
       (click)="translationService.setLang(item.value)"
-      class="inline-block rounded-md px-4 py-2 text-sm hover:text-gray-700 focus:relative hover:text-gray-200"
+      class="text-white inline-block rounded-md px-4 py-2 text-sm focus:relative"
     >
       {{ item.label }}
     </button>

@@ -15,6 +15,7 @@ import { HttpClient, HttpClientModule } from '@angular/common/http';
 
 import { TranslationService } from './services/translation.service';
 import { TranslateHttpLoader } from '@ngx-translate/http-loader';
+import { ContactComponent } from './components/contact/contact.component';
 export function translationInitializer(translationService: TranslationService) {
   return function () {
     return translationService.init('en');
@@ -34,6 +35,7 @@ export function createTranslateLoader(http: HttpClient) {
     FooterComponent,
     LivePreviewComponent,
     MainComponent,
+    ContactComponent,
   ],
   imports: [
     BrowserModule,

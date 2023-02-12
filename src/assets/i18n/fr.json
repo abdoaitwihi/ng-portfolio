@@ -1,9 +1,15 @@
 {
   "address": "Rabat, Maroc",
+  "submit": "Submit",
   "title1": "Expertise en développement de site web,",
   "title2": "Solutions pour votre entreprise",
   "paragraph": "Obtenez des sites web professionnels, des landingpages et des corrections de bogues d'un développeur expérimenté.",
   "get_started": "Messagez-moi maintenant",
+
+  "name": "Nom",
+  "phone_number": "Numéro de téléphone",
+  "message": "Message",
+
   "steps": {
     "title": "Mon processus de développement éprouvé",
     "paragraph": "Assurez-vous du succès et de l'efficacité de votre projet avec ces 6 étapes simples et claires. Notre processus est conçu pour garantir une efficacité maximale et une satisfaction pour nos clients",
