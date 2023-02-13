@@ -18,7 +18,7 @@ import { TranslateHttpLoader } from '@ngx-translate/http-loader';
 import { ContactComponent } from './components/contact/contact.component';
 export function translationInitializer(translationService: TranslationService) {
   return function () {
-    return translationService.init('en');
+    return translationService.init('ar');
   };
 }
 export function createTranslateLoader(http: HttpClient) {
@@ -42,7 +42,7 @@ export function createTranslateLoader(http: HttpClient) {
     HttpClientModule,
     AppRoutingModule,
     TranslateModule.forRoot({
-      defaultLanguage: 'en',
+      defaultLanguage: 'ar',
       loader: {
         provide: TranslateLoader,
         useFactory: createTranslateLoader,
