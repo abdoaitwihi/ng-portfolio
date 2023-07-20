@@ -18,7 +18,7 @@ import { TranslateHttpLoader } from '@ngx-translate/http-loader';
 import { ContactComponent } from './components/contact/contact.component';
 export function translationInitializer(translationService: TranslationService) {
   return function () {
-    return translationService.init('ar');
+    return translationService.init('fr');
   };
 }
 export function createTranslateLoader(http: HttpClient) {
